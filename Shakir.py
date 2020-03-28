@@ -11,11 +11,11 @@ import tweepy
 import random
 from time import sleep
 
-CONSUMER_KEY = 'zTrwFH1Ky0lqjYqvCDbOvvCkm'
-CONSUMER_SECRET = 'WUTM7uADSCbTLW06ZQWLvZM9fFnW7CdvcAWRRrnipdeQUDzjz8'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
-ACCESS_KEY = '1229720028683145216-KqTB8THFQ6QK8mZ329AWhKnSfcPj8D'
-ACCESS_SECRET = 'JYu7rIls3MjwcXiRXPyhxZKkVd0JUeuJTeBYCTd3EDf0l'
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 
 print('Starting Shakir...', flush = True)
 
